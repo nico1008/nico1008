@@ -47,12 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nico1008/nico1008/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nico1008.nico1008&left_color=lightgreen&right_color=seagreen"  />
 </div>
